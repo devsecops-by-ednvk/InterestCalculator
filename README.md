@@ -25,7 +25,6 @@ This is a responsive web application that allows users to calculate **Simple** a
 - CSS3 (Custom and Bootstrap 4)
 - JavaScript
 - Bootstrap 4 CDN
-- jQuery & Popper.js (for Bootstrap JS components)
 
 ## 📁 Project Structure
 
